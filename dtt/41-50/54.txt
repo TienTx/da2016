@@ -1,0 +1,1 @@
+"Gauge Theory" is a modern backwards compatible differential calculus done right, yet made so obscure that only physics & geometry upgraded.
